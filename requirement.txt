@@ -1,0 +1,12 @@
+streamlit
+openai
+dotenv
+langchain
+pandas
+FAISS
+sounddevice
+soundfile
+matplotlib
+seaborn
+moviepy
+ffmpeg
